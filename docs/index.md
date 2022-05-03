@@ -1,5 +1,3 @@
-<!-- AUTO COPIED FROM 'docs/index.md', DO NOT EDIT -->
-
 # 程序员的摄影指南
 
 ## How to use

@@ -32,7 +32,7 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 nav:
-  - 主页: ./README.md
-  - 关于: ./docs/关于.md
+  - index.md
+  - 关于: 关于.md
   - 调色:
-      - 基础: ./docs/调色/基础.md
+      - 基础: ./调色/基础.md
