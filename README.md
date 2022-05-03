@@ -1,1 +1,3 @@
-C:/Users/salvare000/Desktop/photography/docs/README.md
+# 程序员摄影指南
+
+asdf
